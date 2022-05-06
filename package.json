@@ -1,0 +1,23 @@
+{
+  "name": "typescript-tsl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/longqiqi-888/TypeScript-tsl.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/longqiqi-888/TypeScript-tsl/issues"
+  },
+  "homepage": "https://github.com/longqiqi-888/TypeScript-tsl#readme",
+  "dependencies": {
+    "@type-challenges/utils": "^0.1.1"
+  }
+}
